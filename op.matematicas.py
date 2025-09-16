@@ -1,0 +1,7 @@
+print("OPERACOES MATEMATICAS\n ---MENU---")
+print("1 - soma \n")
+print("2 - subtracao \n")
+print("3 - multiplicacao\n")
+print("4 - divisao\n")
+print("5 - par ou impar\n")
+print("6 - fatorial\n")
